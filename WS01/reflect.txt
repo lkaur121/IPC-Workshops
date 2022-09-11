@@ -1,14 +1,16 @@
-****************************************************************************
-                              Reflection
-                             Workshop - #1
-Full Name  : 
-Student ID#: 
-Email      : 
-Section    : 
+**************************************************************************
+                                       Reflection
+                             Workshop - #1(Part-1 and Part-2)
+Full Name  : Lovepreet Kaur
+Student ID#: 175580216
+Email      :lkaur121@myseneca.ca 
+Section    :ZAA 
 
 Authenticity Declaration:
 I declare this submission is the result of my own work and has not been
 shared with any other student or 3rd party content provider. This submitted
 piece of work is entirely of my own creation.
 ****************************************************************************
-
+1.I learned how to code and run a program by using the compiler through this workshop.i also learned about the usage of applications like visual studio,putty,linux matrix system, win SCP and also how to transfer files by creating directories.
+2.SSH is an application used to transfer files from local computer to another device without connecting with the device. i used SSH matrix system to submit my workshops to my proffessor.
+3.SFTP is another application used to transfer files .I used it to access the matrix account and submit my workshops.
